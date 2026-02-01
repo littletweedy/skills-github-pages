@@ -1,4 +1,10 @@
 
+---
+layout: page
+title: Welcome to Little Tweety's blog
+permalink: /
+---
+
 # Welcome to Little Tweety's blog
 
 ## AIHub Blog Index
