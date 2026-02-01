@@ -1,3 +1,1 @@
----
-title: Welcome to Little Tweety's blog
----
+# Welcome to Little Tweety's blog
